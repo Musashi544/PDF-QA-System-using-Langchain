@@ -1,5 +1,7 @@
 # PDF-QA-System-using-Langchain
 
+This project is able to answer questions about topics that are in the pdfs.
+ 
 Steps To Run 
 
 1. Create a ngrok account to get Auth Token and Domain name 
@@ -9,4 +11,5 @@ Steps To Run
 5. In command prompt run command
     - ollama run llama2 
    This will download llama2 
-6. Now you are set to run notebook.ipynb. Just add the public url in the variable URL in the notebook.
+6. Add the pdf to pdfs folder 
+7. Now you are set to run notebook.ipynb. Just add the public url in the variable URL in the notebook.
